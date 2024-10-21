@@ -1,0 +1,38 @@
+---
+title: "Test R markdown - R markdown practical"
+author: "Melanie Rees-Roberts"
+date: "2024-10-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Test R markdown - R markdown practical
+
+
+## List of my favourite foods
+* crisps
+* chocolate
+* lasagne
+* fruit
+
+If my favourite foods were assigned a score, this would be:
+
+crisps=4
+chocolate=3
+lasagne=2
+fruit=1
+
+What do crisps and chocolate add up to in score? 
+
+crisps + chocolate
+
+## List of my favourite foods in order of preference
+1. Crisps
+2. Lasagne
+3. Chocolate
+4. Fruit
+
+
